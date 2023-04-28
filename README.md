@@ -1,5 +1,5 @@
 # Overview:
-Space Company is a science-fiction incremental game where you start from humble beginnings on Earth, working your way up to travelling between star systems and building Dyson Spheres and pretty much colonising the entire galaxy(ies?)
+Universe Miner Corperation is a science-fiction incremental game where you start from humble beginnings on Earth, working your way up to travelling between star systems and building Dyson Spheres and pretty much colonising the entire galaxy(ies?)
 
 Development has stopped, however, several projects have been created based on this you may wish to try.
 
